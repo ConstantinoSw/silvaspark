@@ -1,9 +1,1 @@
-Nome /   id22268498_db_silvaspark
-
-
-Usuário /  id22268498_root
-
-
-Host  /   localhost
-
 
